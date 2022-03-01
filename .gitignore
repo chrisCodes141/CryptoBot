@@ -1,0 +1,9 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+my-app.iml
+
+# Token file
+src/main/resources/token.txt
